@@ -9,5 +9,6 @@ In the moment I'm a student of the Software Engineer Degree at the University of
 ![rfernr08's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rfernr08&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 
-https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+
 <img src="{https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white}" />
+![image]({https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white})
